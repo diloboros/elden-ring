@@ -33,7 +33,7 @@ tags:
 ### Co-Op Multiplayer
 
 - [Small Golden Effigy](https://eldenring.wiki.fextralife.com/Small+Golden+Effigy) - For sending out a Co-Op summon sign.
-- [Finger Severer](https://eldenring.wiki.fextralife.com/Finger+Severer) - For leaving a co-op session
+- [Finger Severer](https://eldenring.wiki.fextralife.com/Finger+Severer) - For leaving a co-op session.
 
 
 ## Links
@@ -47,5 +47,5 @@ tags:
 
 - [New Player Help](https://eldenring.wiki.fextralife.com/New+Player+Help)
 - [Game Route Progress](https://eldenring.wiki.fextralife.com/Game+Progress+Route)
-- [Multiplayer Coop and Online | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Multiplayer+Coop+and+Online)
+- [Multiplayer Co-Op and Online | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Multiplayer+Coop+and+Online)
 
