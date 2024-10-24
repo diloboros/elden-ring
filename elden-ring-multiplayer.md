@@ -11,6 +11,16 @@ tags:
 
 # Elden Ring Multiplayer
 
+You can start co-op multiplayer very early in Elden Ring — essentially right after the tutorial section. 
+
+**Quick Start:**
+
+1. **Start the Game:** You’ll begin in the Cave of Knowledge (tutorial area) or you can skip it. Either way, you’ll end up at The First Step Site of Grace in Limgrave.
+2. **Collect Multiplayer Items:** Once you reach The First Step Site of Grace, you can immediately pick up the necessary multiplayer items:
+  • Tarnished’s Furled Finger and Finger Severer are given to you as you follow the natural path from the tutorial to the first Site of Grace.
+  • Small Golden Effigy is found next to the Summoning Pool statue near The First Step Grace.
+3. **Craft or Loot a Furlcalling Finger Remedy:** To start summoning players into your world, you’ll need a Furlcalling Finger Remedy. You can find Erdleaf Flowers right near the first Site of Grace, and once you get two, you can craft this item using the Crafting Kit (purchased from Kale at the Church of Elleh for 300 runes). Alternatively, you can loot Furlcalling Finger Remedies from certain spots or enemies around Limgrave.
+
 ## Personal Tips
 
 - Follow Fightin Cowboy's Youtube walktroughs to get started.
@@ -24,6 +34,9 @@ tags:
     - Questlines
     - Bosses/Enemies
     - Secrets
+
+
+
 
 ## Items Required for Multiplayer
 
