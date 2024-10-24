@@ -43,7 +43,7 @@ tags:
 - [Elden Ring Walkthrough](https://www.youtube.com/playlist?list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh) - complete walkthrough of entire game as video playlist.
 
 
-### [Fextralife | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki
+### [Fextralife | Elden Ring Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
 
 - [New Player Help](https://eldenring.wiki.fextralife.com/New+Player+Help)
 - [Game Route Progress](https://eldenring.wiki.fextralife.com/Game+Progress+Route)
