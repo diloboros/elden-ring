@@ -25,7 +25,7 @@ tags:
     - Bosses/Enemies
     - Secrets
 
-## Items Required for Co-Op Multiplayer
+## Items Required for Multiplayer
 
 - [Furlcaling Finger Remedy](https://eldenring.wiki.fextralife.com/Furlcalling+Finger+Remedy) - For summoning other players into your world.
 - [Tarnished's Furled Finger](https://eldenring.wiki.fextralife.com/Tarnished's+Furled+Finger) - For placing your own summon sign.
