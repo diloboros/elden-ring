@@ -30,7 +30,7 @@ tags:
 - [Furlcaling Finger Remedy](https://eldenring.wiki.fextralife.com/Furlcalling+Finger+Remedy) - For summoning other players into your world.
 - [Tarnished's Furled Finger](https://eldenring.wiki.fextralife.com/Tarnished's+Furled+Finger) - For placing your own summon sign.
 
-### Items Required for Co-Op Multiplayer
+### Co-Op Multiplayer
 
 - [Small Golden Effigy](https://eldenring.wiki.fextralife.com/Small+Golden+Effigy) - For sending out a Co-Op summon sign.
 - [Finger Severer](https://eldenring.wiki.fextralife.com/Finger+Severer) - For leaving a co-op session
