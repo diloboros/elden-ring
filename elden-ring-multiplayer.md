@@ -17,7 +17,7 @@ tags:
   - Set you computer or tablet next to you on the couch.
   - Go to his walkthrough, start at the beginning or skip to you progress point.
   - Set video speed at 0.75x and pause/play frequently so you don't lose your position relative to his in the video.
-- Use guides and info pages on [`Fextralife`](https://www.youtube.com/playlist?list=PL7RtZMiaOk8gdRf130w4gFYyhstL-5VRh)
+- Use guides and info pages on [`Fextralife`](https://eldenring.wiki.fextralife.com)
   - Info about: 
     - Items - where to get them, what they do
     - Characters
